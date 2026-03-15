@@ -1,6 +1,46 @@
 <h1 align="center">Hi 👋 I'm Belkacem Zouilekh</h1>
 
 <p align="center">
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+
+<!-- edges -->
+<line x1="80" y1="110" x2="200" y2="40" stroke="#4FC3F7" stroke-width="2">
+  <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+</line>
+
+<line x1="80" y1="110" x2="200" y2="180" stroke="#4FC3F7" stroke-width="2">
+  <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+</line>
+
+<line x1="200" y1="40" x2="340" y2="110" stroke="#4FC3F7" stroke-width="2">
+  <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+</line>
+
+<line x1="200" y1="180" x2="340" y2="110" stroke="#4FC3F7" stroke-width="2">
+  <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/>
+</line>
+
+<!-- nodes -->
+<circle cx="80" cy="110" r="8" fill="#00E5FF">
+  <animate attributeName="r" values="7;10;7" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="200" cy="40" r="8" fill="#00E5FF">
+  <animate attributeName="r" values="7;10;7" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="200" cy="180" r="8" fill="#00E5FF">
+  <animate attributeName="r" values="7;10;7" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="340" cy="110" r="8" fill="#00E5FF">
+  <animate attributeName="r" values="7;10;7" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+
+</svg>
+</p>
+
+<p align="center">
 PhD Student in Stochastic Optimization • Software Architect • AI & Optimization Researcher
 </p>
 
