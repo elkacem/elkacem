@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-PhD Student in Stochastic Optimization • Software Architect • AI & Optimization Researcher
+PhD in Operational Research • Software Architect • AI & Optimization Researcher
 </p>
 
 <p align="center">
